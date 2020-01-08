@@ -1,0 +1,19 @@
+{
+  "name": "simple-blockchain-webapi",
+  "version": "1.0.0",
+  "description": "A simple web api to explore how blockchain works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barrybonds/Simple-Blockchain-WebApi.git"
+  },
+  "author": "Victor Obaitor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barrybonds/Simple-Blockchain-WebApi/issues"
+  },
+  "homepage": "https://github.com/barrybonds/Simple-Blockchain-WebApi#readme"
+}
